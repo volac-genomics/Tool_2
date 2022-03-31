@@ -1,0 +1,13 @@
+/LIBRARY/*.fa
+
+/input_custom_seq/*.fa
+!/input_custom_seq/test_sequences.fa
+
+/input_genomes/*.fa
+
+/output_tool2/**
+!/output_tool2/README
+
+work/
+.nextflow*
+
