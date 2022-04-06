@@ -6,7 +6,7 @@
 /input_genomes/*.fa
 
 /output_tool2/**
-!/output_tool2/README
+!/output_tool2/.README.md
 
 work/
 .nextflow*
